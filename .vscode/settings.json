@@ -1,0 +1,9 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python.defaultInterpreterPath": "C:\\Users\\duckh\\AppData\\Local\\Python\\pythoncore-3.15-64\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.analysis.extraPaths": [
+        "C:\\Users\\duckh\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib",
+        "C:\\Users\\duckh\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages"
+    ]
+}

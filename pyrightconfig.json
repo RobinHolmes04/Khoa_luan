@@ -1,0 +1,10 @@
+{
+  "pythonVersion": "3.14",
+  "pythonPlatform": "Windows",
+  "extraPaths": [
+    "C:/Users/duckh/AppData/Local/Python/pythoncore-3.15-64/Lib",
+    "C:/Users/duckh/AppData/Local/Python/pythoncore-3.15-64/Lib/site-packages",
+    "."
+  ],
+  "reportMissingModuleSource": "none"
+}
